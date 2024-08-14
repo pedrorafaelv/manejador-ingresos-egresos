@@ -17,8 +17,9 @@ use App\Http\Controllers\Api\TransactionCategoryController;
 */
 
 // Route::middleware('auth:sa33333333nctum')->get('/user', function (Request $request) {
-//     return $request->user();
+//     return $request->user();s
 // });
+
 
 
 Route::prefix('TransactionsCategory')->group(function () {
